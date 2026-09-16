@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 · HtyyYWHp -->
-## Notification 1/2
-Round: Round 1
-To: mjpoling5@yahoo.com, tristinbickham@hotmail.com
-At: 2026-09-16 14:15:59
-Id: HtyyYWHp
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: ajloos@outlook.com, bobagostini@yahoo.com
+At: 2026-09-16 14:16:38
+Id: upTA1c88
